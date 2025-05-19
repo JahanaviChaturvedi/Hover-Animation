@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  background: white;
+  display: flex;
+  justify-content: space-around;
+}
+.container {
+  width: 30vw;
+  height: 100vh;
+  text-align: center;
+  padding-top: 15rem;
+}
+
+.container1:hover{
+  /* background: rgb(133, 192, 133); */
+  background: #98FB98;
+  
+}
+.container2:hover{
+  /* background: rgb(226, 153, 193) */
+  background:#FFC0CB;
+}
+.container3:hover{
+  background: rgb(238, 238, 129);
+}
+.container4:hover{
+  background: #d5bba9;
+}
+
+h1 {
+  text-decoration: double;
+}
